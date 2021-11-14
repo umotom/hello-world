@@ -3,4 +3,4 @@ Just another repository
 
 おはようございます。
 
-from bash tests
+stash test from bash
